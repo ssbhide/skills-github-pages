@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Sarang Bhide: Welcome to my website!
 ---
 
